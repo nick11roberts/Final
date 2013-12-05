@@ -1,0 +1,8 @@
+files
+recursion
+objects
+linked list
+for
+bases
+if
+while
